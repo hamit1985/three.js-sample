@@ -253,7 +253,7 @@ addEventListener('click', (e)=>{
         duration : 1,
         delay: 2,
         onComplete: () => {
-            window.location = ''
+            window.location = 'https://github.com/hamit1985/portfolio-threejs'
         }
     })
 })
